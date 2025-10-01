@@ -1,0 +1,6 @@
+.venv/
+frontend/venv/
+__pycache__/
+*.pyc
+.env
+data/*.ndjson
